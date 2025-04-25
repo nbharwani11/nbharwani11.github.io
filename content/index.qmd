@@ -1,7 +1,6 @@
 ---
-title: "content"
+title: "Naureen Bharwani"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Profile website for Naureen Bharwani created with [Quarto](https://quarto.org/) and
+ hosted on [GitHub Pages](https://pages.github.com/).
