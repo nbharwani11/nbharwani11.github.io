@@ -1,7 +1,7 @@
 name: nbharwani11.github.io
 channels:
+  - defaults
   - conda-forge
-  - nodefaults
 dependencies:
-  - python ~=3.9
+  - python~=3.10
   - quarto
